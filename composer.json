@@ -1,5 +1,6 @@
 {
     "name"       : "zamoose/themehookalliance",
+    "type": "wordpress-plugin",
     "description": "Theme Hook Alliance",
     "keywords"   : ["wordpress"],
     "homepage"   : "https://github.com/zamoose/themehookalliance",
