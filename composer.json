@@ -13,8 +13,5 @@
     ],
     "support"    : {
         "issues": "https://github.com/zamoose/themehookalliance/issues"
-    },
-    "autoload": {
-        "files": ["tha-theme-hooks.php"]
     }
 }
