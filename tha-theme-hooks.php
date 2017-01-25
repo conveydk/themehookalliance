@@ -1,4 +1,17 @@
 <?php
+
+/*
+Plugin Name:        Theme Hook Alliance
+Plugin URI:         https://github.com/conveydk/themehookalliance
+Description:        Theme Hook Alliance
+Version:            1.3
+Author:             ONVEY
+Author URI:         https://convey.dk/
+
+License:            MIT License
+License URI:        http://opensource.org/licenses/MIT
+*/
+
 /**
  * Theme Hook Alliance hook stub list.
  *
