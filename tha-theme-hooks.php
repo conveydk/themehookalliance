@@ -5,8 +5,8 @@ Plugin Name:        Theme Hook Alliance
 Plugin URI:         https://github.com/conveydk/themehookalliance
 Description:        Theme Hook Alliance
 Version:            1.3
-Author:             ONVEY
-Author URI:         https://convey.dk/
+Author:             Doug Stewart
+Author URI:         http://literalbarrage.org
 
 License:            MIT License
 License URI:        http://opensource.org/licenses/MIT
