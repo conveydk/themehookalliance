@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Theme Hook Alliance",
     "keywords"   : ["wordpress"],
+    "type"       : "wordpress-muplugin",
     "homepage"   : "https://github.com/zamoose/themehookalliance",
     "license"    : "GPL-2.0+",
     "authors"    : [
